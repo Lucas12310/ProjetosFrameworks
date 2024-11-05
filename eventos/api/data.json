@@ -1,0 +1,19 @@
+{
+  "eventos": [
+    {
+      "id": "1",
+      "titulo": "Semana do CST em ADS",
+      "dataEvento": "2024-11-01T22:00:00.000Z"
+    },
+    {
+      "id": "1",
+      "titulo": "SNCT",
+      "dataEvento": "2024-11-12T10:00:00.000Z"
+    },
+    {
+      "id": "6a29",
+      "titulo": "Lucas Fernandes",
+      "dataEvento": "2024-11-05"
+    }
+  ]
+}
